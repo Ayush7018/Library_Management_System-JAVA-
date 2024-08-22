@@ -2,13 +2,13 @@
 
 <h1>Library Management System </h1>
 Overview
-The Library Management System is a comprehensive Java-based application designed to manage the operations of a library. This system allows librarians to efficiently manage books, patrons, and transactions, providing an organized approach to book lending and returns. The application is built with core Java and follows object-oriented programming principles to ensure scalability and maintainability.
+The Library Management System is a comprehensive Java-based application designed to manage the operations of a library. This system allows librarians to efficiently manage books, patrons, and transactions, providing an organized approach to book lending and returns. <br> The application is built with core Java and follows object-oriented programming principles to ensure scalability and maintainability.
 <br>
 <h4> Features</h4>
 1. User Management <br>
 Admin: Admins have the ability to add, remove, and update book records, manage user accounts, and view transaction history.
-Patrons: Patrons can browse available books, check out books, return books, and view their borrowing history.<br>
-
+Patrons: Patrons can browse available books, check out books, return books, and view their borrowing history.
+<br>
 2. Book Management
 Add/Remove Books: Admins can add new books to the library collection or remove existing ones.
 Update Book Details: Admins can update book information, such as title, author, and quantity.
